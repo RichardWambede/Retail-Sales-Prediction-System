@@ -4,4 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 nltk
-streamlit
+streamlit==1.24.1
